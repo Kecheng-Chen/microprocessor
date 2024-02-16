@@ -1,2 +1,2 @@
-# microprocessor
-A repository collecting the microprocessor course projects
+# UCB ME235 Course Project
+Design of Microprocessor-Based Mechanical Systems
